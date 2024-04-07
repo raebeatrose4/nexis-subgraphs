@@ -935,7 +935,7 @@ dependencies = [
  "chrono",
  "diesel_derives",
  "itoa",
- "num-bigint 0.2.6",
+ "num-bigint 0.4.4",
  "num-integer",
  "num-traits",
  "pq-sys",
@@ -1515,7 +1515,7 @@ dependencies = [
  "lazy_static",
  "lru_time_cache",
  "maplit",
- "num-bigint 0.2.6",
+ "num-bigint 0.4.4",
  "num-traits",
  "object_store",
  "parking_lot 0.12.1",
@@ -2890,7 +2890,6 @@ dependencies = [
  "autocfg",
  "num-integer",
  "num-traits",
- "serde",
 ]
 
 [[package]]
@@ -2902,6 +2901,7 @@ dependencies = [
  "autocfg",
  "num-integer",
  "num-traits",
+ "serde",
 ]
 
 [[package]]
